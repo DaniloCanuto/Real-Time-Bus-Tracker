@@ -1,5 +1,5 @@
 # https://danilocanuto.github.io/Real-Time-Bus-Tracker/
-<file src="index.html"/>
+<file src="06_real-time_bus_tracker.html"/>
 
 <img src= "map.png" width='300'/>
 
