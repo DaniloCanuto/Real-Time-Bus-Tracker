@@ -1,6 +1,5 @@
-# Real-Time-Bus-Tracker
-
-## Adding animation to maps
+# https://danilocanuto.github.io/Real-Time-Bus-Tracker/
+<file src="index.html"/>
 
 <img src= "map.png" width='300'/>
 
