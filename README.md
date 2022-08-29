@@ -1,6 +1,4 @@
-# Real-Time-Bus-Tracker
-
-https://danilocanuto.github.io/Real-Time-Bus-Tracker/
+# [Real-Time-Bus-Tracker] (https://danilocanuto.github.io/Real-Time-Bus-Tracker/)
 
 <img src= "map.png" width='300'/>
 
